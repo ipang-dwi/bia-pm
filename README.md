@@ -30,6 +30,7 @@ Instalasi :
 
 Preview :
 https://firstplato.com/bia
+https://youtu.be/ilwTPUQdPjc
 
 Minimum requirements :
 - PHP 5.x
