@@ -29,8 +29,8 @@ Instalasi :
 - Tes jalankan pada browser.
 
 Preview :
-https://firstplato.com/bia
-https://youtu.be/ilwTPUQdPjc
+- https://firstplato.com/bia
+- https://youtu.be/ilwTPUQdPjc
 
 Minimum requirements :
 - PHP 5.x
