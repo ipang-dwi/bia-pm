@@ -7,19 +7,16 @@ Little documentation for BIA-PM v1.0.a
   Fiturnya yaa gini aja bisa di liat sndiri ntar. Ane share, barangkali bisa berguna. Mudah-mudahan manfaat, barokAllah.
   ipang dwi al junayd - www.firstplato.com 
 
-Aplikasi Sistem Informasi Geografis (SIG) / GIS Wisata Kota Surabaya Berbasis Web. Untuk frontend menggunakan Native PHP5 dan untuk backend menggunakan framework CodeIgniter.
+Aplikasi Project Management Berbasis Web. Menggunakan framework CodeIgniter dan MySql / MariaDB.
 
 Semoga bisa bermanfaat, bagi yang ingin mempelajari :
-- Web programming, terutama native PHP5, PHP Framework (CodeIgniter), Jquery dan CSS3
-- Cara kerja REST API, dalam hal ini GMap (Google Map) API v3
-- SIG - Sistem Informasi Geografis / GIS - Geographical Informasion System
+- Web programming, PHP dengan OOP, PHP MVC, PHP Framework (CodeIgniter), Jquery dan CSS3
+- Project Manager sederhana untuk memanage dan melakukan tracking progress sebuah project
 
 Instalasi :
 - Cukup download atau clone file-file di repo ini, dan copy kan pada web direktori kamu.
 - Buat database baru, dan import file Sql ke database yang kamu buat. 
   Silahkan WA ke o856 48587 856, untuk file Sql nya. Nanti akan diemail. 
-- Buka file 'configdb.php' pada baris ke 6, sesuaikan dengan setting database kamu.
-  contoh $mysqli = new mysqli('localhost','user-kamu','password-kamu','nama-database-kamu');
 - Buka file 'database.php' pada folder admin/application/config. Sesuaikan dengan setting database kamu.
   contoh 
   $db['default']['hostname'] = 'localhost';
@@ -28,11 +25,11 @@ Instalasi :
   $db['default']['database'] = 'nama-database-kamu';
   $db['default']['dbdriver'] = 'mysqli';
 - Buka file 'config.php' pada folder admin/application/config. Sesuaikan dengan setting nama folder admin project kamu.
-  contoh $config['base_url']	= 'http://localhost/project-kamu/admin';
+  contoh $config['base_url']	= 'http://localhost/project-kamu';
 - Tes jalankan pada browser.
 
 Preview :
-https://imgur.com/a/4X1HS
+https://firstplato.com/bia
 
 Minimum requirements :
 - PHP 5.x
@@ -40,10 +37,10 @@ Minimum requirements :
 
 Elements :
 - Bootstrap v3.x
-- Bootswatch v3.x Cosmo Themes
+- AdminLte v2.x
 - CodeIgniter v3.x
 - Jquery v1.x
-- Datatables v1.x
 
 Feel free to reach me on : 
 www.firstplato.com
+www.facebook.com/ipang.dwi
