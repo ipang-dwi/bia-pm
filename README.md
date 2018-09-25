@@ -43,5 +43,6 @@ Elements :
 - Jquery v1.x
 
 Feel free to reach me on : 
-www.firstplato.com
-www.facebook.com/ipang.dwi
+- www.firstplato.com
+- www.facebook.com/ipang.dwi
+- www.facebook.com/firstplato
