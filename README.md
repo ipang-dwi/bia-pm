@@ -1,4 +1,7 @@
 # bia-pm
+
+<img src="https://img.shields.io/github/license/ipang-dwi/xdesktop.svg" /> <img src="https://img.shields.io/badge/lab-firstplato.com-red.svg" />
+
 BIA Project Management - simple, lite and light weight progect management
 
 Little documentation for BIA-PM v1.0.a
