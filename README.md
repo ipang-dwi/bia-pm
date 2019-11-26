@@ -45,6 +45,10 @@ Elements :
 - CodeIgniter v3.x
 - Jquery v1.x
 
+Logs :
+- November 2019, redevelopment 
+- Alpha release 2018
+
 Feel free to reach me on : 
 - www.firstplato.com
 - www.facebook.com/ipang.dwi
