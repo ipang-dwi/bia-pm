@@ -46,8 +46,8 @@ Elements :
 - Jquery v1.x
 
 Logs :
-- November 2019, redevelopment 
-- Alpha release 2018
+- November 2019, redevelopment. 
+- Alpha release 2018.
 
 Feel free to reach me on : 
 - www.firstplato.com
